@@ -1,6 +1,6 @@
 # sudoku-solver
 
-Python project implementing application for solving the famous puzzle "sudoku". User can set the initial numbers of the specific sudoku within the graphical interface and then hit the "Solve" button to see the solution.
+Simple python project implementing application for solving the famous puzzle "sudoku". User can set the initial numbers of the specific sudoku within the graphical interface and then hit the "Solve" button to see the solution.
 
 Example puzzle
 
